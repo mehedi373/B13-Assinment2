@@ -139,6 +139,7 @@ nav{
    background: transparent;
  }
  #hero-btn-2{
+    border: 1px solid green;
     padding: 10px 20px;
     border-radius: 20px;
     background-color:transparent;
@@ -146,6 +147,7 @@ nav{
  #hero-btn-2 button{
     background-color: transparent;
     border: none;
+    
  }
 
  /* section 2 design */
